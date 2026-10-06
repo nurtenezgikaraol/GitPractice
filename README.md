@@ -1,5 +1,5 @@
 # GitPractice
- GitHub öğreniyoruz
+ Git ve GitHub öğreniyoruz
 
 ### Öğrendiğim konular
 - Repository
