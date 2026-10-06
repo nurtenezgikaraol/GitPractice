@@ -15,6 +15,3 @@ Bu satırı GitHub üzerinden ekledim.
 - Git branch yapısını öğrenmek
 - Pull Request oluşturmak
 - Merge işlemini uygulamak
-
-## Yanlış Bilgi
-GitHub'da commitler asla geri alınamaz.
