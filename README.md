@@ -10,3 +10,8 @@
 
 ## GitHub Web
 Bu satırı GitHub üzerinden ekledim.
+
+## Proje Hedefleri
+- Git branch yapısını öğrenmek
+- Pull Request oluşturmak
+- Merge işlemini uygulamak
