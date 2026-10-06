@@ -7,3 +7,6 @@
 - Push
 - Pull
 - Branch
+
+## GitHub Web
+Bu satırı GitHub üzerinden ekledim.
